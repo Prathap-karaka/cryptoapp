@@ -6,7 +6,7 @@ import { Layout, Typography, Space } from "antd";
 function App() {
   return (
     <div className="App">
-      <div className="header"></div>
+      <div className="navbar"></div>
       <div className="body"></div>
       <div className="footer"></div>
     </div>
